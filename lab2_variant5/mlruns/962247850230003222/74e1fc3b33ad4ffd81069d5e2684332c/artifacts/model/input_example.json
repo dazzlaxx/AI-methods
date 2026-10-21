@@ -1,0 +1,1 @@
+{"columns": ["type", "air_temperature", "process_temperature", "rotational_speed", "torque", "tool_wear"], "data": [["M", 302.0, 310.9, 1456, 47.2, 54], ["M", 297.0, 308.3, 1399, 46.4, 132], ["M", 301.0, 311.6, 1357, 45.6, 137]]}

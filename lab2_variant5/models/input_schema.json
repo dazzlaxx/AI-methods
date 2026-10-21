@@ -1,0 +1,35 @@
+{
+  "type": {
+    "type": "category",
+    "values": [
+      "H",
+      "L",
+      "M"
+    ]
+  },
+  "air_temperature": {
+    "type": "number",
+    "min": 295.3,
+    "max": 304.5
+  },
+  "process_temperature": {
+    "type": "number",
+    "min": 305.7,
+    "max": 313.8
+  },
+  "rotational_speed": {
+    "type": "number",
+    "min": 1168.0,
+    "max": 2886.0
+  },
+  "torque": {
+    "type": "number",
+    "min": 3.8,
+    "max": 76.6
+  },
+  "tool_wear": {
+    "type": "number",
+    "min": 0.0,
+    "max": 253.0
+  }
+}

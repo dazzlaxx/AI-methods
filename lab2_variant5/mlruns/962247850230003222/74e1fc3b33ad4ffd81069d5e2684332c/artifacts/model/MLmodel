@@ -1,0 +1,36 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.16
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+is_signature_from_type_hint: false
+mlflow_version: 2.22.5
+model_size_bytes: 741548
+model_uuid: cad2858fa59246eca3c21757cd97c9b3
+prompts: null
+run_id: 74e1fc3b33ad4ffd81069d5e2684332c
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "string", "name": "type", "required": true}, {"type": "double",
+    "name": "air_temperature", "required": true}, {"type": "double", "name": "process_temperature",
+    "required": true}, {"type": "long", "name": "rotational_speed", "required": true},
+    {"type": "double", "name": "torque", "required": true}, {"type": "long", "name":
+    "tool_wear", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-10-21 12:43:16.291120'

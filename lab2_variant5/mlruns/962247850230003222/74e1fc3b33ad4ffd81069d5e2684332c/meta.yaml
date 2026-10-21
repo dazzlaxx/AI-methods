@@ -1,0 +1,16 @@
+artifact_uri: file:///content/drive/MyDrive/lab2_variant5/mlruns/962247850230003222/74e1fc3b33ad4ffd81069d5e2684332c/artifacts
+deleted_time: 1792588444867
+end_time: 1792586634089
+entry_point_name: ''
+experiment_id: '962247850230003222'
+lifecycle_stage: deleted
+run_id: 74e1fc3b33ad4ffd81069d5e2684332c
+run_name: puzzled-squid-729
+run_uuid: 74e1fc3b33ad4ffd81069d5e2684332c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792586595965
+status: 3
+tags: []
+user_id: root

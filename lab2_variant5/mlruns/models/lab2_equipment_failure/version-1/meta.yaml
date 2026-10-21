@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1792588317100
+current_stage: None
+description: null
+last_updated_timestamp: 1792588317100
+name: lab2_equipment_failure
+run_id: e506af42e6b342b19fb2c5d31078eb9c
+run_link: null
+source: file:///content/drive/MyDrive/lab2_variant5/mlruns/962247850230003222/e506af42e6b342b19fb2c5d31078eb9c/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/lab2_variant5/mlruns/962247850230003222/e506af42e6b342b19fb2c5d31078eb9c/artifacts/model
+user_id: null
+version: 1

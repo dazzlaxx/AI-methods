@@ -1,0 +1,16 @@
+artifact_uri: file:///content/drive/MyDrive/lab2_variant5/mlruns/962247850230003222/33e5d0e82d18404f9bb7ae67326737b8/artifacts
+deleted_time: 1792588444829
+end_time: 1792588264554
+entry_point_name: ''
+experiment_id: '962247850230003222'
+lifecycle_stage: deleted
+run_id: 33e5d0e82d18404f9bb7ae67326737b8
+run_name: lgbm-final-lr1-params
+run_uuid: 33e5d0e82d18404f9bb7ae67326737b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792588254944
+status: 3
+tags: []
+user_id: root
